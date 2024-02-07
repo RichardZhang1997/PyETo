@@ -1,5 +1,7 @@
-
+import os
 from setuptools import setup
+
+os.chdir('C:\\Study\\GitHub_codes\\PyETo')
 
 setup(
     name='PyETo',
